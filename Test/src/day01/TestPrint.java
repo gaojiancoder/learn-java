@@ -1,4 +1,4 @@
-package day;
+package day01;
 
 public class TestPrint {
     public static void main(String[] args) {
